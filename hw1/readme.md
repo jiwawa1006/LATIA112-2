@@ -1,10 +1,10 @@
-作業作業1
+作業1
 
-資料: 大專校院各校科系別概況 112_sdata.csv
+資料: 大專校院各校科系別概況 (112_sdata.csv)
 
-相關資料: 大專校院學科分類標準 10609_2系統架構.xlsx
+相關資料: 大專校院學科分類標準 (10609_2系統架構.xlsx)
 
-字體: 台北思源黑體 TaipeiSansTCBeta-Regular.ttf
+字體: 台北思源黑體 (TaipeiSansTCBeta-Regular.ttf)
 
 問題:
 
