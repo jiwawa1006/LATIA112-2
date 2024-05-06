@@ -1,5 +1,5 @@
 作業2
-
+=
 beautifulsoup: 
 
 csv (dune_series_book_info.csv)
