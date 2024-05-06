@@ -1,6 +1,6 @@
-#作業2
+作業2
 
-##beautifulsoup:
+beautifulsoup:
 
 csv (dune_series_book_info.csv)
 
@@ -10,7 +10,7 @@ csv (dune_series_book_info.csv)
 
 爬蟲內容: 沙丘六部曲分別的書籍資料，包含書名、作者、星數、評論數、出版日期、編輯次數和連結
 
-##selenium:
+selenium:
 
 csv (data_analysis_intern_info.csv)
 
