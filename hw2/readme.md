@@ -1,6 +1,6 @@
 作業2
 
-beautifulsoup (https://colab.research.google.com/drive/1X6LOssZyVNoxtpPS69Md3ZL7NdclY-Rh)
+beautifulsoup: 
 
 csv ()
 
@@ -9,7 +9,7 @@ csv ()
 爬蟲內容: 沙丘六部曲分別的書籍資料，包含書名、作者、星數、評論數、出版日期、編輯次數和連結
 
 
-selenium (https://colab.research.google.com/drive/1qbBW9HRfHY9aCruEF30iTt4wQ-yTro39)
+selenium: 
 
 csv ()
 
